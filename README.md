@@ -1,4 +1,4 @@
-## Olá! Sou a Karina 😊
+## Olá! Hello! Hola! Salut! 😊
 <p>Tenho 21 anos e sou formada em Sistemas para Internet. No momento estou em busca de um emprego na área de Desenvolvimento Front-end.</p>
 
 <div>

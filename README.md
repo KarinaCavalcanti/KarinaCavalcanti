@@ -16,7 +16,7 @@
 </div>
 
 ## Para mais informações
-<p>Acesse meu LinkedIn ou me envie um e-mail!</p>
+<p>Sinta-se a vontade para acesse meu LinkedIn ou me enviar um e-mail!</p>
 
 <div>
   <a href="https://www.linkedin.com/in/karinalucindo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

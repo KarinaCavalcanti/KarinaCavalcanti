@@ -1,5 +1,5 @@
 ## Olá! Hello! Hola! Salut! 😊
-<p>Tenho 21 anos e sou formada em Sistemas para Internet. No momento estou em busca de um emprego na área de Desenvolvimento Front-end.</p>
+<p>Tenho 21 anos e sou formada em Sistemas para Internet. No momento estou em busca de uma oportunidade na área de Desenvolvimento Front-end.</p>
 
 <div>
   <a href="https://github.com/KarinaCavalcanti"></a>

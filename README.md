@@ -12,8 +12,8 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> Bootstrap
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> ReactJS
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma <br>
-  <img align="center" height="30" width="40" src="https://media.giphy.com/media/DHiqBbtjaB30s/giphy.gif">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma <br>
+  <img align="right" width="40%" src="https://media.giphy.com/media/DHiqBbtjaB30s/giphy.gif">
 </div>
 
 ## Para mais informações

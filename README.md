@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://github.com/KarinaCavalcanti"></a>
-  <img height:"100em"  src="https://github-readme-stats.vercel.app/api?username=karinacavalcanti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+  <img height:"120em"  src="https://github-readme-stats.vercel.app/api?username=karinacavalcanti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
   <img height:"100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&layout=compact&langs_count=16&theme=synthwave" />
 </div>
 <div style="display: inline_block"> <br>

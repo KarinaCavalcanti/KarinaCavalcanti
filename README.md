@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> Figma 
 </div>
 
-## Para mais informações
+## More informations
 <p>Check out my LinkedIn or send me an e-mail!</p>
 
 <div>

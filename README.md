@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/KarinaCavalcanti"></a>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=karinacavalcanti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&layout=compact&langs_count=16&theme=synthwave" />
+  <img height:"180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=karinacavalcanti&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+  <img height:"180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&layout=compact&langs_count=16&theme=synthwave" />
 </div>
 <div style="display: inline_block"> <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> HTML5

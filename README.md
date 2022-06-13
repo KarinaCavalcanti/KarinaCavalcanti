@@ -1,5 +1,5 @@
 ## Olá! Hello! Hola! Salut! 😊
-<p>I am 22 years old and I obtained a degree in Systems for Internet. In the moment, I am doing a postgraduate course called User Interface.</p>
+<p>I am 22 years old and I obtained a degree in Systems for Internet. In the moment, I am doing a postgraduate course called User Interface Design.</p>
 
 <div>
   <a href="https://github.com/KarinaCavalcanti"></a>

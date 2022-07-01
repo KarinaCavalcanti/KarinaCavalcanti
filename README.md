@@ -1,4 +1,4 @@
-## Olá! Hello! Hola! Salut! 👋🏻
+## ✨ Olá! Hello! Hola! Salut! ✨
 <p>I am Karina and I am 22 years old.</p>
 
 - 👩🏻‍💻 Working as Front-end Developer and UI Designer
@@ -7,7 +7,7 @@
 
 - 📚 Post-graduate in User Interface Design (UI Design)
 
-- 🧠 Always looking for something to learn
+- 🔭 Always looking for something to learn
 
 <br />
 

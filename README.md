@@ -27,16 +27,23 @@
 <br />
 
 ## ⚒ Hard skills
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.JS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-05122A.svg?style=flat&logo=figma)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A.svg?style=flat&logo=visual-studio-code)&nbsp;
-![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat&logo=styled-components)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br />
+  
+## 📚 Learning
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  
 <br />
   
 ## 🤝🏻 Soft skills
@@ -59,15 +66,15 @@
 
 <div>
   <a href="https://www.linkedin.com/in/karinalucindo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&color=6633cc&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-6633cc.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href = "mailto:karina.lucindo31@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&color=6633cc&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-6633cc?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:karina.lucindo@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&color=6633cc&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-6633cc?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.behance.net/karinalucindo?tracking_source=search_users%7Ckarina%20lucindo" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat&color=6633cc&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-6633cc?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
 </div>

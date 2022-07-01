@@ -14,11 +14,11 @@
 <div align="center">
   <a href="https://github.com/karinacavalcanti">
   <img 
-     height="240em" 
+     height="200em" 
      src="https://github-readme-stats.vercel.app/api?username=karinacavalcanti&show_icons=true&theme=radical"
      alt="Karina's stats"/>
   <img 
-     height="240em" 
+     height="200em" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&layout=compact&langs_count=16&theme=radical"
      alt="Karina's stats"
    />

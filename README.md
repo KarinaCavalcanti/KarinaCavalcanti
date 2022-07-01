@@ -19,7 +19,7 @@
      alt="Karina's stats"/>
   <img 
      height="190em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&layout=compact&langs_count=16&theme=radical"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacavalcanti&&hide=java,makefile,swift,shell,kotlin,objective-c&layout=compact&langs_count=16&theme=radical"
      alt="Karina's stats"
    />
 </div>

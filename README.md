@@ -33,6 +33,9 @@
 ![React.JS](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A.svg?style=flat&logo=figma)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A.svg?style=flat&logo=visual-studio-code)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=flat&logo=styled-components)&nbsp;
 
 <br />
   
@@ -55,7 +58,16 @@
 ## 📣 Social links
 
 <div>
-  <a href="https://www.linkedin.com/in/karinalucindo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&color=6633cc&logo=linkedin&logoColor=white" />
-  <a href = "mailto:karina.lucindo31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&color=6633cc&logo=gmail&logoColor=white" target="_blank" />
-  <a href="mailto:karina.lucindo@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&color=6633cc&logo=microsoft-outlook&logoColor=white" />
+  <a href="https://www.linkedin.com/in/karinalucindo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&color=6633cc&logo=linkedin&logoColor=white" />
+  </a>
+  <a href = "mailto:karina.lucindo31@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&color=6633cc&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:karina.lucindo@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&color=6633cc&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/karinalucindo?tracking_source=search_users%7Ckarina%20lucindo" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat&color=6633cc&logo=behance&logoColor=white" />
+  </a>
 </div>

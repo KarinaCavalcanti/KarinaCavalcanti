@@ -7,10 +7,6 @@
 
 - 📚 Post-graduate in User Interface Design (UI Design)
 
-- 🔭 Always looking for something to learn
-
-- 🥰 J'aime apprendre le français
-
 <br />
 
 <div align="center">
